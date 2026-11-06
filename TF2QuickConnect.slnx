@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TF2QuickConnect/TF2QuickConnect.vcxproj" Id="56e6e8d0-94ff-4cd7-ab68-3b43c4090cd7" />
+</Solution>
